@@ -12,8 +12,8 @@ This project replicates Model-View-Controller (MVC) Architecture
 
 ## Contributors
 
-[Adi Iman] (https://github.com/adimixx) <br>
-[Afiq Iskandar] (https://github.com/afiq101) <br>
+[Adi Iman](https://github.com/adimixx) <br>
+[Afiq Iskandar](https://github.com/afiq101) <br>
 Faris Izwan <br>
 Abdulelah Mahdi Mahmood Yahya Mohsen <br>
 
